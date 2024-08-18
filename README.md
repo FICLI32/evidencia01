@@ -1,1 +1,1 @@
-calculadora de promedios
+calculadora de promedios.
